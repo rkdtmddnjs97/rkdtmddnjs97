@@ -27,12 +27,15 @@ Mail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-squa
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 
 #### Front-end
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![ReactQuery](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 
 ![swKang's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rkdtmddnjs97&show_icons=true&theme=radical)
