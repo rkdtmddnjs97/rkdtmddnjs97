@@ -19,6 +19,7 @@ Mail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-squa
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square)
 
 #### Back-end
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
